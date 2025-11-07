@@ -7,7 +7,7 @@ const NavBar = () => {
       <div className="mx-auto max-w-7xl px-4 py-3 flex items-center justify-between">
         <a href="#home" className="flex items-center gap-2 text-white">
           <Ticket size={20} className="text-white" />
-          <span className="font-semibold">e-tix</span>
+          <span className="font-semibold">GG tix</span>
         </a>
         <nav className="hidden md:flex items-center gap-6 text-sm text-white/80">
           <a href="#tickets" className="hover:text-white">Tickets</a>

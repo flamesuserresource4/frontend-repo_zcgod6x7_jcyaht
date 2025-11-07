@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center px-6">
         <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-white/80 backdrop-blur">
           <Ticket size={14} />
-          <span>e-tix — Futuristic e-sports tickets</span>
+          <span>GG tix — Futuristic e-sports tickets</span>
         </div>
         <h1 className="mt-4 text-4xl md:text-6xl font-semibold tracking-tight text-white">
           Secure your e-sport experience
